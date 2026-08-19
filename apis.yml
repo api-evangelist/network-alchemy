@@ -34,7 +34,7 @@ x-defunct:
   acquired_by: Nokia
   acquired_date: '2000-02'
   note: No active website, developer portal, or public API surface as of enrichment.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
